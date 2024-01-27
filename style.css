@@ -1,0 +1,59 @@
+<html>
+<head>
+    <title>Welcome Akira</title>
+    <style>
+        body 
+	{
+            background-color: #ebadd6;
+            text-align: center; 
+	    
+        }
+
+        h1 
+	{
+           color: #630330;
+           text-align: center;
+        }
+
+        p
+	{
+            text-align: center;
+        }
+
+        img 
+	{
+           width: 430px;
+           height: 430px;
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;
+        }
+
+        button 
+	{
+          padding: 12px 100px;
+    	  font-size: 20px;
+	  border-radius: 8px;
+	  border: 2px solid #DE3163;
+	  transition-duration: 0.4s;
+	  background-color: #FFB6C1;
+          font-family: "Garamond", serif;
+          position: absolute;
+          bottom: 45px;
+          left: 50%;
+          transform: translateX(-50%);
+        }
+	button:hover 
+	{
+  	  background-color: #DE3163;
+        } 
+    </style>
+</head>
+<body>
+    <h1>‧‧˚₊⋅☆♡୨୧Happy Birthday Akira ୨୧♡☆⋅₊˚‧࣪</h1>
+    <p>Please click the button below for your special surprise!</p>
+    <img src=C:\Users\abida sade\Desktop\PlumDay\images\hellokittypink.gif" alt="Hello Kitty">
+    <button><a href="file:///C:/Users/abida%20sade/Desktop/PlumDay/hellokiki.html">Next</a></button>
+</body>
+</html>
